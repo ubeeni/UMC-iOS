@@ -7,4 +7,5 @@
 
 ### 📖 with Notion
 > [03.13 ~ 03.19 1주차 workbook](https://marked-insect-edd.notion.site/1-Work-Book-52d69408289742dd9a0bb64e0a8dfd8b) : 프로젝트 환경 구성 & Swift 문법 공부
-> [03.20 ~ 03. 26 2주차 workbook](https://marked-insect-edd.notion.site/iOS-2-7ea86808a08a49fd8048f28a28b2f1a5) : AutoLayout & inspector 영역 & Constraint
+> 
+> [03.20 ~ 03.26 2주차 workbook](https://marked-insect-edd.notion.site/iOS-2-7ea86808a08a49fd8048f28a28b2f1a5) : AutoLayout & inspector 영역 & Constraint
