@@ -17,6 +17,7 @@
 		1080669E27F34A5100EC66D3 /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1080669D27F34A5100EC66D3 /* RegisterViewController.swift */; };
 		108066A227F4ACA700EC66D3 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 108066A127F4ACA700EC66D3 /* UIView+Extension.swift */; };
 		108066A627F4BE5900EC66D3 /* UIViewController+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 108066A527F4BE5900EC66D3 /* UIViewController+Extension.swift */; };
+		108066A827F74AAC00EC66D3 /* UserInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 108066A727F74AAC00EC66D3 /* UserInfo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		1080669D27F34A5100EC66D3 /* RegisterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
 		108066A127F4ACA700EC66D3 /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
 		108066A527F4BE5900EC66D3 /* UIViewController+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Extension.swift"; sourceTree = "<group>"; };
+		108066A727F74AAC00EC66D3 /* UserInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInfo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				100C82F827DC9FF200836857 /* Main.storyboard */,
 				1080669D27F34A5100EC66D3 /* RegisterViewController.swift */,
 				1080669B27F22CDA00EC66D3 /* LoginViewController.swift */,
+				108066A727F74AAC00EC66D3 /* UserInfo.swift */,
 				100C82FB27DC9FF400836857 /* Assets.xcassets */,
 				100C82FD27DC9FF400836857 /* LaunchScreen.storyboard */,
 				100C830027DC9FF400836857 /* Info.plist */,
@@ -154,6 +157,7 @@
 				1080669C27F22CDA00EC66D3 /* LoginViewController.swift in Sources */,
 				1080669E27F34A5100EC66D3 /* RegisterViewController.swift in Sources */,
 				100C82F327DC9FF200836857 /* AppDelegate.swift in Sources */,
+				108066A827F74AAC00EC66D3 /* UserInfo.swift in Sources */,
 				108066A627F4BE5900EC66D3 /* UIViewController+Extension.swift in Sources */,
 				100C82F527DC9FF200836857 /* SceneDelegate.swift in Sources */,
 				1080669A27F1893D00EC66D3 /* Color+Extension.swift in Sources */,
