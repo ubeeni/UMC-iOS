@@ -5,7 +5,7 @@
 ![UMC](https://user-images.githubusercontent.com/69234788/158747758-01091eb0-76e6-4f07-a304-939de479dd07.png)
 ![SMUMC](https://user-images.githubusercontent.com/69234788/158748457-0e9607b3-ee06-4ad3-9310-dc6554907e0d.png) 
 
-### 👩🏻‍🎓 *GITHUB: https://github.com/UMC-SMU/iOS*
+### 👩🏻‍💻 *GITHUB: https://github.com/UMC-SMU/iOS*
 
 ### 🗓 *Curriculum*
 > **환경설정 및 언어소개**
