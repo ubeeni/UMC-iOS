@@ -1,6 +1,6 @@
 ## **2nd UMC 상명대 iOS 🍎**
 ### UMC(University MakeUs Challenge) : *앱 런칭에 도전하는 대학생 IT 연합동아리*
-*UMC-SMU STUDY 2022.03.13~2022.05.26(10주)* 
+*UMC-SMU STUDY 2022.03.13~2022.05.28(10주)* 
 
 ![UMC](https://user-images.githubusercontent.com/69234788/158747758-01091eb0-76e6-4f07-a304-939de479dd07.png)
 ![SMUMC](https://user-images.githubusercontent.com/69234788/158748457-0e9607b3-ee06-4ad3-9310-dc6554907e0d.png) 
@@ -43,7 +43,8 @@
 >
 > [05.22 ~ 05.28 10주차 workbook](https://marked-insect-edd.notion.site/iOS-10-9f64b09347c846f880ca905825cc3466) : 마무리
 
+#### 👑 *우수 스터디원*
+<img src="https://user-images.githubusercontent.com/69234788/172183169-f603a829-0f16-4932-abc6-a00a49b94ef5.JPG" width="300" height="400"/>
+
 #### 📱 *인스타그램 클론 코딩(_Catstagram)*
 https://user-images.githubusercontent.com/69234788/172177132-73b6ee11-343f-4595-98db-8e7e6642369c.mov
-
-
